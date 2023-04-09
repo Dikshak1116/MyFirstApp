@@ -11,7 +11,8 @@ public class App
 		int a=10;
 
 		//Bug-130
-		String str="Good Evening..!!"
+		String str="Good Evening..!!";
+		String str1="My code";
 
         String s="hi";
  
