@@ -11,6 +11,9 @@ public class App
 		int a=10;
 	    	int b=20;
 
+		//Bug-130
+		String str="Good Evening..!!"
+
         String s="hi";
  
         System.out.println( "Hello World!" );
